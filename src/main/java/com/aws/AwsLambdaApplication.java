@@ -1,4 +1,4 @@
-package com.aws_lambda;
+package com.aws;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

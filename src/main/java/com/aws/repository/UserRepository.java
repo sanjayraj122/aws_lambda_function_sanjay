@@ -1,6 +1,6 @@
-package com.aws_lambda.repository;
+package com.aws.repository;
 
-import com.aws_lambda.entity.User;
+import com.aws.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

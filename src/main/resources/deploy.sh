@@ -7,7 +7,7 @@
 ## Configuration
 #FUNCTION_NAME="spring-boot-mysql-lambda"
 #RUNTIME="java17"
-#HANDLER="com.aws_lambda.lambda.StreamLambdaHandler::handleRequest"
+#HANDLER="com.aws_lambda.StreamLambdaHandler::handleRequest"
 #MEMORY_SIZE=1024
 #TIMEOUT=30
 #REGION="us-east-1"

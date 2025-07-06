@@ -1,9 +1,9 @@
-package com.aws_lambda.service;
+package com.aws.service;
 
 
-import com.aws_lambda.dto.UserDTO;
-import com.aws_lambda.entity.User;
-import com.aws_lambda.repository.UserRepository;
+import com.aws.dto.UserDTO;
+import com.aws.entity.User;
+import com.aws.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

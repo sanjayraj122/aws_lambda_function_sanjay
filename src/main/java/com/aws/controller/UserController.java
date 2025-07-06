@@ -1,7 +1,7 @@
-package com.aws_lambda.controller;
+package com.aws.controller;
 
-import com.aws_lambda.dto.UserDTO;
-import com.aws_lambda.service.UserService;
+import com.aws.dto.UserDTO;
+import com.aws.service.UserService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
